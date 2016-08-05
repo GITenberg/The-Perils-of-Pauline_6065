@@ -1,0 +1,30 @@
+_repo: The-Perils-of-Pauline_6065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goddard, Charles
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '1928'
+    url: http://www.gutenberg.org/2009/agents/1928
+    wikipedia: http://en.wikipedia.org/wiki/Charles_W._Goddard
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Young women -- Conduct of life -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: The Perils of Pauline
+url: http://www.gutenberg.org/ebooks/6065
